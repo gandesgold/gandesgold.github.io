@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>side project on Gandes Goldestan</title>
+    <link>https://gandesgold.com/tags/side-project/</link>
+    <description>Recent content in side project on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/tags/side-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Having Side Project? Why Not?</title>
+      <link>https://gandesgold.com/blog/side-project-benefit/</link>
+      <pubDate>Mon, 07 Sep 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/side-project-benefit/</guid>
+      <description>My opinion about side project, whether we should do it or not for our skill development</description>
+    </item>
+    
+  </channel>
+</rss>

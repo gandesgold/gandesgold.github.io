@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard on Gandes Goldestan</title>
+    <link>https://gandesgold.com/tags/dashboard/</link>
+    <description>Recent content in Dashboard on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 May 2021 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Embed Your Tableau Dashboard in Markdown</title>
+      <link>https://gandesgold.com/blog/tableau-markdown/</link>
+      <pubDate>Wed, 05 May 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/tableau-markdown/</guid>
+      <description>The solution to embed your Tableau Public Dashboard in Markdown files for your static site using simple shortcode</description>
+    </item>
+    
+  </channel>
+</rss>

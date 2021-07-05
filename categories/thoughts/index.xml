@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thoughts on Gandes Goldestan</title>
+    <link>https://gandesgold.com/categories/thoughts/</link>
+    <description>Recent content in Thoughts on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2020 16:29:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/categories/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relationship Doesn&#39;t Mean to Make Us Happy, But It Makes Us Conscious</title>
+      <link>https://gandesgold.com/blog/conscious-relationship/</link>
+      <pubDate>Sun, 13 Sep 2020 16:29:41 +0800</pubDate>
+      
+      <guid>https://gandesgold.com/blog/conscious-relationship/</guid>
+      <description>Sometimes relationship (romance or not) doesn&amp;rsquo;t always bring us happiness all the time. What is the meaning of this?</description>
+    </item>
+    
+    <item>
+      <title>Having Side Project? Why Not?</title>
+      <link>https://gandesgold.com/blog/side-project-benefit/</link>
+      <pubDate>Mon, 07 Sep 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/side-project-benefit/</guid>
+      <description>My opinion about side project, whether we should do it or not for our skill development</description>
+    </item>
+    
+    <item>
+      <title>Benefits I Get from Managing a Bookstagram</title>
+      <link>https://gandesgold.com/blog/bookstagram-benefit/</link>
+      <pubDate>Sun, 06 Sep 2020 16:29:41 +0800</pubDate>
+      
+      <guid>https://gandesgold.com/blog/bookstagram-benefit/</guid>
+      <description>The story of my wonderful experience and benefits I get from managing bookstagram with a friend in pandemic times</description>
+    </item>
+    
+  </channel>
+</rss>

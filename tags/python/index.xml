@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Gandes Goldestan</title>
+    <link>https://gandesgold.com/tags/python/</link>
+    <description>Recent content in python on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Sep 2020 16:29:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Simple Web Scraping with Python</title>
+      <link>https://gandesgold.com/blog/simple-webscraping/</link>
+      <pubDate>Sat, 12 Sep 2020 16:29:41 +0800</pubDate>
+      
+      <guid>https://gandesgold.com/blog/simple-webscraping/</guid>
+      <description>My learning documentation for a tutorial about web scraping/data extraction using some libraries in Python</description>
+    </item>
+    
+  </channel>
+</rss>

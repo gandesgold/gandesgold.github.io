@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>makeovermonday on Gandes Goldestan</title>
+    <link>https://gandesgold.com/tags/makeovermonday/</link>
+    <description>Recent content in makeovermonday on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/tags/makeovermonday/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Regional Price Parity for Each State in the U.S — #MakeoverMonday</title>
+      <link>https://gandesgold.com/blog/regional-price-parity/</link>
+      <pubDate>Wed, 28 Apr 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/regional-price-parity/</guid>
+      <description>The story behind the viz for #MakeoverMonday Week 17 submission. This is first time I implemented tile map in Tableau, finally!</description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification of Dry Beans — #MakeoverMonday</title>
+      <link>https://gandesgold.com/blog/dry-beans-multiclass-classification/</link>
+      <pubDate>Mon, 12 Apr 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/dry-beans-multiclass-classification/</guid>
+      <description>The story behind the viz for #MakeoverMonday Week 14 submission and got selected as my 1st Favorite Viz of the Week</description>
+    </item>
+    
+  </channel>
+</rss>

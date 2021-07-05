@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Gandes Goldestan</title>
+    <link>https://gandesgold.com/tags/tableau/</link>
+    <description>Recent content in Tableau on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 May 2021 10:07:47 +0600</lastBuildDate>
+    
+	<atom:link href="https://gandesgold.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Embed Your Tableau Dashboard in Markdown</title>
+      <link>https://gandesgold.com/blog/tableau-markdown/</link>
+      <pubDate>Wed, 05 May 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/tableau-markdown/</guid>
+      <description>The solution to embed your Tableau Public Dashboard in Markdown files for your static site using simple shortcode</description>
+    </item>
+    
+    <item>
+      <title>Journey in #DataViz (Part 2)</title>
+      <link>https://gandesgold.com/blog/starting-dataviz-journey-part-2/</link>
+      <pubDate>Fri, 30 Apr 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/starting-dataviz-journey-part-2/</guid>
+      <description>This is 2nd story about my data visualization journey development using Tableau, first weeks after I start to participate #MakeoverMonday community project</description>
+    </item>
+    
+    <item>
+      <title>Regional Price Parity for Each State in the U.S — #MakeoverMonday</title>
+      <link>https://gandesgold.com/blog/regional-price-parity/</link>
+      <pubDate>Wed, 28 Apr 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/regional-price-parity/</guid>
+      <description>The story behind the viz for #MakeoverMonday Week 17 submission. This is first time I implemented tile map in Tableau, finally!</description>
+    </item>
+    
+    <item>
+      <title>Multiclass Classification of Dry Beans — #MakeoverMonday</title>
+      <link>https://gandesgold.com/blog/dry-beans-multiclass-classification/</link>
+      <pubDate>Mon, 12 Apr 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/dry-beans-multiclass-classification/</guid>
+      <description>The story behind the viz for #MakeoverMonday Week 14 submission and got selected as my 1st Favorite Viz of the Week</description>
+    </item>
+    
+    <item>
+      <title>Journey in #DataViz (Part 1)</title>
+      <link>https://gandesgold.com/blog/starting-dataviz-journey/</link>
+      <pubDate>Tue, 15 Dec 2020 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/starting-dataviz-journey/</guid>
+      <description>This is the story about how I started my passionate hobby for the first time in data visualization, particularly in using Tableau</description>
+    </item>
+    
+  </channel>
+</rss>

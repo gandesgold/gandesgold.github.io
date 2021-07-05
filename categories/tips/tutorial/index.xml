@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips/Tutorial on Gandes Goldestan</title>
+    <link>https://gandesgold.com/categories/tips/tutorial/</link>
+    <description>Recent content in Tips/Tutorial on Gandes Goldestan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://gandesgold.com/categories/tips/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to Embed Your Tableau Dashboard in Markdown</title>
+      <link>https://gandesgold.com/blog/tableau-markdown/</link>
+      <pubDate>Wed, 05 May 2021 10:07:47 +0600</pubDate>
+      
+      <guid>https://gandesgold.com/blog/tableau-markdown/</guid>
+      <description>The solution to embed your Tableau Public Dashboard in Markdown files for your static site using simple shortcode</description>
+    </item>
+    
+    <item>
+      <title>A Simple Web Scraping with Python</title>
+      <link>https://gandesgold.com/blog/simple-webscraping/</link>
+      <pubDate>Sat, 12 Sep 2020 16:29:41 +0800</pubDate>
+      
+      <guid>https://gandesgold.com/blog/simple-webscraping/</guid>
+      <description>My learning documentation for a tutorial about web scraping/data extraction using some libraries in Python</description>
+    </item>
+    
+    <item>
+      <title>How to Create Wordcloud Visualization with R</title>
+      <link>https://gandesgold.com/blog/wordcloud-with-r/</link>
+      <pubDate>Thu, 10 Sep 2020 16:29:41 +0800</pubDate>
+      
+      <guid>https://gandesgold.com/blog/wordcloud-with-r/</guid>
+      <description>My learning documentation about making word cloud as one of chart for data visualization in R</description>
+    </item>
+    
+  </channel>
+</rss>
